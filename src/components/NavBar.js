@@ -66,7 +66,7 @@ const NavBar = () => {
       <div className='w-full flex justify-between items-center lg:hidden'>
 
       <nav>
-        <CustomLink href="/" title="Inicio" className='mr-4'/>
+        <CustomLink href="/" title="nuevo" className='mr-4'/>
         <CustomLink href="/about" title="Acerca de" className='mx-4'/>
         <CustomLink href="/projects" title="Proyectos" className='ml-4'/>
       </nav>
