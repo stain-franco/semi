@@ -91,7 +91,7 @@ Para 2030 ser reconocidos como el principal referente en transformación digital
                   <AnimatedNumbers value={6} />+
                 </span>
                 <h2 className="text-xl font-medium capitalize text-dark dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Projects completed
+                  Proyectos completados
                 </h2>
               </div>
 
@@ -100,7 +100,7 @@ Para 2030 ser reconocidos como el principal referente en transformación digital
                   <AnimatedNumbers value={1} />+
                 </span>
                 <h2 className="text-xl font-medium capitalize text-dark dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Years of experience
+                  Años de experiencia
                 </h2>
               </div>
             </div>
