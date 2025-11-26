@@ -38,7 +38,6 @@ function Skills() {
             Rionegro
         </motion.div>
         <Skill name="El carmen de Viboral" x="-20vw" y="2vw"/>
-        <Skill name="Marinilla" x="-5vw" y="-10vw"/>
         <Skill name="Marinilla" x="-6vw" y="-8vw"/>
         <Skill name="Guarne" x="20vw" y="6vw"/>
         <Skill name="La Ceja" x="0vw" y="12vw"/>
